@@ -1,6 +1,11 @@
-.ProfileCardStats-statValue {
-  display:none;
-}
+/* twitter dashboard */
+.ProfileCardStats-statValue,
 .ProfileCardStats-stat {
+  display:none !important;
+}
+
+/* twitter profile */
+.ProfileNav-value,
+.ProfileNav-label {
   display:none !important;
 }
